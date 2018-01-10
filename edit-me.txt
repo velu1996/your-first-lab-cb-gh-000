@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world@all !!!!
+=======
+hello world@all !!!!
+>>>>>>> 22850464f3fc7972321791377fcf6e5c7c745a39
